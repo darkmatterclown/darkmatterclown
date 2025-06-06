@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darkmatterclown
-- 👀 I’m interested in hacking,penitration and kinda stuff
+- 👀 I’m interested in aws,devops and kinda stuff
 - 🌱 I’m currently student
-- 💞️ I’m looking to collaborate on any kind of hacking matter
+- 💞️ I’m looking to collaborate on any kind of CI/CD projects
 - 📫 How to reach me 'reach out by email :amshul17@gmail.com
 
 <!---
